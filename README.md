@@ -12,7 +12,7 @@ Feel free to browse my repositories. Let's connect and build something great! ðŸ
 
 <br>
 
-https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif
+**![Animated Development](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)**
 
 ---
 
