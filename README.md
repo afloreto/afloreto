@@ -9,6 +9,7 @@ When I'm not coding, you'll likely find me with a book, I love reading as a way 
 
 Feel free to browse my repositories. Let's connect and build something great! 😊
 
+(https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/judeada) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afloreto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sienesantos) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/afloreto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ss.emis64@gmail.com) 
