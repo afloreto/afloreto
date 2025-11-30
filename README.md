@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello and welcome to my space!<br><br>I'm currently a student in Systems Analysis and Development, and my main goal is to turn innovative ideas into functional applications.<br><br>My deep connection with technology started while growing up in the world of gaming, which instilled in me a passion for logic, problem-solving, and engaging user experiences.<br><br>When I'm not coding, you'll likely find me with a book—I love reading as a way to continuously learn and bring fresh perspectives to my projects.<br><br>Feel free to browse my repositories. Let's connect and build something great! 😊
+# 💫 Hello World
+<br><br>I'm currently a student in Systems Analysis and Development, and my main goal is to turn innovative ideas into functional applications.<br><br>My deep connection with technology started while growing up in the world of gaming, which instilled in me a passion for logic, problem-solving, and engaging user experiences.<br><br>When I'm not coding, you'll likely find me with a book—I love reading as a way to continuously learn and bring fresh perspectives to my projects.<br><br>Feel free to browse my repositories. Let's connect and build something great! 😊
 
 
 ## 🌐 Socials:
