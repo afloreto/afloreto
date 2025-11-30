@@ -1,6 +1,6 @@
 # 💫 Developer | Systems Analysis and Development
 
-Hello! My name is **Siene**.
+Hello! My name is **Sienne**.
 
 I'm currently a student in **Systems Analysis and Development**, and my main goal is to **turn innovative ideas into functional applications**.
 
