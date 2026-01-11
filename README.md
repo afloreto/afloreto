@@ -2,11 +2,11 @@
 
 Hiii! My name is **Siene**.
 
-I'm currently a student in **Systems Analysis and Development**, and my main goal is to **turn innovative ideas into functional applications**.
+I'm currently a student in **Systems Analysis and Development**, sharpening my skills in **Java and Spring Boot** to turn innovative ideas into functional applications, with a special focus on assistive technologies.
 
-My deep connection with technology started while growing up in the **world of gaming**, which instilled in me a passion for logic, problem-solving, and engaging user experiences.
+My deep connection with technology started while growing up in the world of gaming, which instilled in me a passion for logic, problem-solving, and engaging user experiences.
 
-When I'm not coding, you'll likely find me with a book, I **love reading** as a way to continuously learn and bring fresh perspectives to my projects.
+When I'm not coding, you'll likely find me with a book. I love reading as a way to continuously learn and bring fresh perspectives to my projects.
 
 Feel free to browse my repositories. Let's connect and build something great! 😊
 
